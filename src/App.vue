@@ -20,7 +20,7 @@ import heroImg from "./assets/hero.png";
           to="/rankings"
           class="text-md font-semibold whitespace-nowrap"
         >
-          Fantasy Rankings
+          FPL CoPilot
         </RouterLink>
       </div>
 
@@ -74,7 +74,7 @@ import heroImg from "./assets/hero.png";
     </div>
 
     <!-- Page Content -->
-    <main class="container mx-auto px-4 py-6">
+    <main class="container mx-auto px-4">
       <RouterView />
     </main>
   </div>
